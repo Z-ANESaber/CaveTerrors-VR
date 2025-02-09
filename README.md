@@ -96,7 +96,6 @@
 - [FancyMenu](https://modrinth.com/mod/fancymenu) (Customize Minecraft's menus with ease)
 - [Pickup Notifier](https://modrinth.com/mod/pick-up-notifier) (Be notified about all the things you've just collected.)
 - [Mouse Tweaks](https://modrinth.com/mod/mouse-tweaks) (Enhances inventory management by adding various functions to the mouse buttons.)
-- [Not Enough Animations](https://modrinth.com/mod/not-enough-animations) (Adds new animations to players in third person)
 - [Sodium Dynamic Lights](https://modrinth.com/mod/sodium-dynamic-lights) (Adds dynamic lighting. Makes a torch you hold in your hand light the place without placing it.)
 - [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered) (Provides realistic sound attenuation, reverberation, and absorption through blocks.)
 - [Sound](https://modrinth.com/mod/sound) (Introduces new sound effects and enhances the original ones.)
