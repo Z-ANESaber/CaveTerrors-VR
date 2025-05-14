@@ -17,9 +17,7 @@
 
 ![features banner](https://cdn.modrinth.com/data/cached_images/5d011c31f35d4699a72034c528c8f877e2bfaaa6_0.webp)
 
-
-![immersive vr mode banner](https://cdn.modrinth.com/data/cached_images/6fda74feb51267d10061aa8e950e20a2eb984acc.png)
-
+![immersive vr mode banner](https://cdn.modrinth.com/data/cached_images/d894bffc4ad63199cb75ba58f360c2f54f478397.png)
 
 ![creatures feature banner showing two included creatures](https://cdn.modrinth.com/data/cached_images/735fc5d1dc5881db7c5e8dfa83e49b301bed9d87.png)
 
