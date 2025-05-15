@@ -1,9 +1,5 @@
 ![Project banner](https://cdn.modrinth.com/data/cached_images/8e19cd9b70b48165196d51a93e987657fe472ff3_0.webp)
 
-<p align="center">
-  <img width="40%" height="30%" src="https://cdn.modrinth.com/data/cached_images/9854f51ded6b58641fc17de8498e3c9df8af224c.png">
-  </p>
-
 
 <p align="center">
   <img width="40%" height="10%" src="https://cdn.modrinth.com/data/cached_images/9335a2d04f672a66b68bab3d41436307dadc8eed.png">
@@ -12,7 +8,35 @@
   </p>
 
 
+# Downloads:
 
+<a href="https://modrinth.com/modpack/caveterrors-vr">
+<img width="10%" height="10%" src="https://github.com/user-attachments/assets/6662edd1-6422-43fb-b414-6fda92edc1da" alt="Modrinth">
+</a>
+
+<a href="">
+<img width="10%" height="10%" src="https://github.com/user-attachments/assets/f3564481-924e-4116-9151-d70ed139f10a" alt="CurseForge">
+</a>
+
+<a href="https://github.com/Z-ANESaber/CaveTerrors-VR/releases/latest">
+<img width="9%" height="10%" src="https://github.com/user-attachments/assets/500cb4f0-6fbe-4991-8a2a-f4cc4b596e77" alt="GitHub">
+</a>
+
+<br>
+
+# Why is this marked as Beta?
+Some parts still have yet to undergo extensive testing. These include:
+- Crossplay between VR- and NonVR players
+- Voice chat and radio in VR
+- Joining servers in VR
+
+Some features are also yet to be finished, like:
+- Custom main menu
+- OST album for menu
+- Some more smaller features
+
+  
+<br><br><br>
 
 
 ![features banner](https://cdn.modrinth.com/data/cached_images/5d011c31f35d4699a72034c528c8f877e2bfaaa6_0.webp)
