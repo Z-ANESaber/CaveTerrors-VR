@@ -22,24 +22,14 @@
 <img width="9%" height="10%" src="https://github.com/user-attachments/assets/500cb4f0-6fbe-4991-8a2a-f4cc4b596e77" alt="GitHub">
 </a>
 
-<br>
-
-# Why is this marked as Beta?
-Some parts still have yet to undergo extensive testing. These include:
-- Crossplay between VR- and NonVR players
-- Voice chat and radio in VR
-- Joining servers in VR
-
-Some features are also yet to be finished, like:
-- Custom main menu
-- OST album for menu
-- Some more smaller features
-
-  
-<br><br><br>
-
+<br><br><br><br>
+# Description
+Experience the dark and twisted version of Minecraft. Adding several new, dangerous creatures to the game, alongside other immersive features like a proximity voice chat and radio communication, a sanity system, VR-support and more.
+For more information check the Features, as well as the FAQ section below.
+<br><br>
 
 ![features banner](https://cdn.modrinth.com/data/cached_images/5d011c31f35d4699a72034c528c8f877e2bfaaa6_0.webp)
+
 
 ![immersive vr mode banner](https://cdn.modrinth.com/data/cached_images/d894bffc4ad63199cb75ba58f360c2f54f478397.png)
 
@@ -58,6 +48,46 @@ Some features are also yet to be finished, like:
 ![new caves banner](https://cdn.modrinth.com/data/cached_images/6fc8346e7007372922375a48c918c5ad993c79f5.png)
 
 
+# FAQ
+### How do I play in VR?
+In the main menu, there is now a button on the rightside of the usual buttons saying "VR: Off". Just switch that to on whenever you want to get in VR?
+
+### Can I play in VR with my friends who are not in VR and will they see my VR movement?
+Yes.
+
+### What VR headsets are supported?
+Generally, every SteamVR-capable headset will be able to run it. For more information check the [Vivecraft page](https://www.vivecraft.org/). 
+
+### How does crafting work in VR?
+You approach the crafting table, equip the items needed for crafting (e.g. sticks) and move your hand on the top of the crafting table. At that point you will see 3x3 grid appear on the top of the crafting table. Just move your hand to the place on the grid and press the trigger button. Then map out your crafting recipe and when it's done the finished item (e.g. a pickaxe) will appear floating over the crafting table. At that point just grab it.
+
+### Can I switch between playing in VR and in Non-VR mid-game?
+Yes. Just take your headset off and move to your PC. It should switch automatically. If not turn VR off in the main menu.
+
+### How does the sanity system work?
+The [mod page for it](https://modrinth.com/mod/sanity-descent-into-madness) has all the info you need.
+
+### Do shaders work in VR?
+Yes.
+
+### Does the voice chat work in VR?
+While I haven't done extensive testing on it, it should definitely work (more info coming soon).
+
+### It tells me to add Garbage Collector to my Java arguments when I go in VR. How do I do that?
+That process depends on your launcher. However just look for a field called "Java Arguments" and paste this in: 
+`
+-XX:+UseZGC
+`
+<br>
+This should give some PCs a performance boost. If it does the opposite for you feel free to remove it.
+
+### How do I change the keybinds on my VR controller?
+When opening the SteamVR overlay inside VR you should see Vivecraft pop up with a button called "Controller settings". In there you can customize the controller keybinds.
+
+<br>
+<br>
+<br>
+<br>
 
 ![banner saying "mods used"](https://cdn.modrinth.com/data/cached_images/489f32917f787a19d8aba3141ffa8a63296b3be6_0.webp)
 
