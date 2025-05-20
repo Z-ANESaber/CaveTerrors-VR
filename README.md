@@ -50,7 +50,7 @@ For more information check the Features, as well as the FAQ section below.
 
 # FAQ
 ### How do I play in VR?
-In the main menu, there is now a button on the rightside of the usual buttons saying "VR: Off". Just switch that to on whenever you want to get in VR?
+In the main menu, there is now a button on the rightside of the usual buttons saying "VR: Off". Just switch that to on whenever you want to get in VR.
 
 ### Can I play in VR with my friends who are not in VR and will they see my VR movement?
 Yes.
