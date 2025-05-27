@@ -14,7 +14,7 @@
 <img width="10%" height="10%" src="https://github.com/user-attachments/assets/6662edd1-6422-43fb-b414-6fda92edc1da" alt="Modrinth">
 </a>
 
-<a href="">
+<a href="https://www.curseforge.com/minecraft/modpacks/caveterrors-vr">
 <img width="10%" height="10%" src="https://github.com/user-attachments/assets/f3564481-924e-4116-9151-d70ed139f10a" alt="CurseForge">
 </a>
 
